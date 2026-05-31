@@ -49,7 +49,15 @@ Based on the `mymodelfile.py` submission, the following Python libraries are uti
 * datetime
   Used for year extraction and trend calculations.
 
-
+# Model Highlights
+* Four-tier recency weighted feature blending
+* Exponential Weighted Moving Average (EWMA)
+* Ridge Regression hybrid prediction
+* Venue normalization and team mapping
+* Player-level batting and bowling adjustments
+* Multi-layer fallback prediction pipeline
+* Fully vectorized prediction architecture
+  
 # License
 
 This project is licensed under the MIT License.
